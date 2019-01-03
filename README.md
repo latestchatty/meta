@@ -1,5 +1,8 @@
 # Latest Chatty Community
 
+## Contact Us
+[Join us on Slack](https://join.slack.com/t/latestchatty/shared_invite/enQtNTEzMzA3ODg3NzkzLWFmNDU0Mzg2ODkyZmEwZDZlM2Y1ZDViZTc1MTA1ZWQzMmNlNTc3OWQzMWQ4YTNiZmMzNzEzYWMyOGUwNzkyNWQ).
+
 ## Active Projects
 
 Repository | Description | Publishers
