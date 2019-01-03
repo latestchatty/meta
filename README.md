@@ -4,7 +4,7 @@
 
 Repository | Description | Platform | Publishers
 -- | -- | -- | --
-[chatty](https://github.com/latestchatty/chatty) | Single Page Application client | Web | [@NiXXeD](https://github.com/NiXXeD)
+[chatty](https://github.com/latestchatty/chatty) | Web client | Web | [@NiXXeD](https://github.com/NiXXeD)
 [chromeshack](https://github.com/latestchatty/chromeshack) | Browser extension | Chrome, Firefox | [@electroly](https://github.com/electroly)
 [latest-chatty-2](https://github.com/latestchatty/latest-chatty-2) | Mobile client | iOS | [@patch-e](https://github.com/patch-e)
 [latest-chatty-uwp](https://github.com/latestchatty/latest-chatty-uwp) | Desktop client | Windows | [@boarder2](https://github.com/boarder2)
