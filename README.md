@@ -61,6 +61,7 @@ Publisher: [@electroly](https://github.com/electroly)
 Domain name.
 
 Owner: [@electroly](https://github.com/electroly)
+Manager: [@boarder2](https://github.com/boarder2)
 
 ---
 
