@@ -12,7 +12,7 @@
 
 Web client.
 
-Publisher: [@NiXXeD](https://github.com/NiXXeD)
+- Publisher: [@NiXXeD](https://github.com/NiXXeD)
 
 ---
 
@@ -20,7 +20,7 @@ Publisher: [@NiXXeD](https://github.com/NiXXeD)
 
 Chrome/Firefox extension.
 
-Publisher: [@electroly](https://github.com/electroly)
+- Publisher: [@electroly](https://github.com/electroly)
 
 ---
 
@@ -28,7 +28,7 @@ Publisher: [@electroly](https://github.com/electroly)
 
 iOS client.
 
-Publisher: [@patch-e](https://github.com/patch-e)
+- Publisher: [@patch-e](https://github.com/patch-e)
 
 ---
 
@@ -36,7 +36,7 @@ Publisher: [@patch-e](https://github.com/patch-e)
 
 Windows client.
 
-Publisher: [@boarder2](https://github.com/boarder2)
+- Publisher: [@boarder2](https://github.com/boarder2)
 
 ---
 
@@ -44,7 +44,7 @@ Publisher: [@boarder2](https://github.com/boarder2)
 
 Statistics website
 
-Publisher: [@electroly](https://github.com/electroly)
+- Publisher: [@electroly](https://github.com/electroly)
 
 ---
 
@@ -52,7 +52,7 @@ Publisher: [@electroly](https://github.com/electroly)
 
 API server.
 
-Publisher: [@electroly](https://github.com/electroly)
+- Publisher: [@electroly](https://github.com/electroly)
 
 ---
 
@@ -60,8 +60,8 @@ Publisher: [@electroly](https://github.com/electroly)
 
 Domain name.
 
-Owner: [@electroly](https://github.com/electroly)
-Manager: [@boarder2](https://github.com/boarder2)
+- Owner: [@electroly](https://github.com/electroly)
+- Manager: [@boarder2](https://github.com/boarder2)
 
 ---
 
@@ -69,4 +69,4 @@ Manager: [@boarder2](https://github.com/boarder2)
 
 Domain name.
 
-Owner: [@ThomW](https://github.com/ThomW)
+- Owner: [@ThomW](https://github.com/ThomW)
