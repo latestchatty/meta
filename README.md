@@ -1,7 +1,7 @@
 # Latest Chatty Community
 
 ## Contact Us
-- [Join us on Slack](https://join.slack.com/t/latestchatty/shared_invite/enQtNTEzMzA3ODg3NzkzLWFmNDU0Mzg2ODkyZmEwZDZlM2Y1ZDViZTc1MTA1ZWQzMmNlNTc3OWQzMWQ4YTNiZmMzNzEzYWMyOGUwNzkyNWQ)
+- Organization members may join our Slack. Ask a fellow member for an invite.
 - [File an organization issue](https://github.com/latestchatty/meta/issues)
 
 ## Active Projects
