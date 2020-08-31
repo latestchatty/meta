@@ -40,23 +40,7 @@ Windows client.
 
 ---
 
-### [shackstats](https://github.com/latestchatty/shackstats)
-
-Statistics website
-
-- Publisher: [@electroly](https://github.com/electroly)
-
----
-
 ### [simple-chatty-server](https://github.com/latestchatty/simple-chatty-server)
-
-API server.
-
-- Publisher: [@electroly](https://github.com/electroly)
-
----
-
-### [winchatty-server](https://github.com/latestchatty/winchatty-server)
 
 API server.
 
